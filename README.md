@@ -1,6 +1,6 @@
 # Documention about PC and laptop hardware for IT support
 
-This repository documents the internal hardware components of PCs and laptops, common hardware problems, troubleshooting methods, and practical repair procedures.
+* This repository documents the internal hardware components of PCs and laptops, common hardware problems, troubleshooting methods, and practical repair procedures.
 ---
 
 ##  Overview
@@ -12,4 +12,5 @@ This repository documents the internal hardware components of PCs and laptops, c
 * Hardware Installation and Removal: Step-by-step instructions for removing, installing, and upgrading hardware components.
 
 * The documentation focuses on real-world repair photos, concise explanations, and practical troubleshooting procedures for IT support.
+
 ---
