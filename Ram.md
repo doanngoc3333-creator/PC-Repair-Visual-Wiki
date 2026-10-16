@@ -19,7 +19,7 @@
 
 * Verify the CPU and motherboard memory specifications before purchasing RAM.
 
-Check the number of available RAM slots and the maximum supported memory capacity.
+* Check the number of available RAM slots and the maximum supported memory capacity.
 ---
 ![ModularRam](pics/yY1FTovcs5NiEpDA.jpeg)
 ---
