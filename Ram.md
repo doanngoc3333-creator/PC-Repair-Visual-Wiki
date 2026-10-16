@@ -33,7 +33,7 @@
 ![SolderedRam](pics/solderedram.jpeg)
 
 ---
-#### Caution 
+#### Important: Laptop and desktop RAM modules commonly use different physical form factors. Laptops typically use SO-DIMMs, while desktop PCs typically use DIMMs. Compatibility depends on the motherboard, supported memory generation, module type, and system specifications.
 - Laptop RAM and PC ram are completely different
 ---
 ![PCvsLaptopRAM](pics/khac-biet-giua-RAM-laptop-va-PC-3.png)
