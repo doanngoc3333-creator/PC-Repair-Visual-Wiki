@@ -20,18 +20,22 @@
 * Verify the CPU and motherboard memory specifications before purchasing RAM.
 
 Check the number of available RAM slots and the maximum supported memory capacity.
+---
 ![ModularRam](pics/yY1FTovcs5NiEpDA.jpeg)
+---
 #### Laptops with Soldered RAM (Common in Ultrabooks)
 * Some laptops use soldered LPDDR memory, such as LPDDR4X or LPDDR5, which generally cannot be upgraded separately.
 
 * Some laptops also have soldered DDR memory.
 
 * Check the manufacturer's specifications to confirm whether the RAM is soldered or upgradeable.
+---
 ![SolderedRam](pics/solderedram.jpeg)
 
 ---
 #### Caution 
 - Laptop RAM and PC ram are completely different
+---
 ![PCvsLaptopRAM](pics/khac-biet-giua-RAM-laptop-va-PC-3.png)
 ---
 ### For Desktop PCs
@@ -46,18 +50,22 @@ Check the number of available RAM slots and the maximum supported memory capacit
 - Check the supported memory speed, maximum capacity, and number of RAM slots.
 - Desktop RAM modules (DIMMs) are generally longer than laptop SO-DIMMs.
 - **Important:** Some CPU families support multiple RAM generations, but the motherboard determines which generation can be installed. For example, 12th- and 13th-generation Intel desktop platforms commonly support either DDR4 or DDR5, depending on the motherboard.
+---
 ![PCRAM](pics/gigabyte-h310-i5-8400-8gb-ram.jpg)
-
+---
 #### Mini PCs with Laptop-Style RAM Slots (Some Lenovo, HP, and Dell Models)
 
 - Identify the supported RAM generation: DDR3, DDR4, or DDR5, depending on the model.
 - Check the supported memory speed, maximum capacity, and SO-DIMM compatibility.
 - Some older Intel 6th- and 7th-generation platforms support DDR3L or DDR4, depending on the CPU and motherboard.
 - Check the manufacturer's service manual before purchasing or installing RAM.
+---
 ![MiniPC](pics/nTq6ugRJiDNtArKSVmhtPD-2048-80.jpg)
+---
 #### Ultra-Compact PCs with Soldered RAM (Raspberry PI PC and OEM tiny PC)
 
 - Some ultra-compact PCs use soldered memory that cannot be upgraded separately.
 - Verify the memory configuration in the manufacturer's specifications before purchasing the device.
+---
 ![PCRAM](pics/4575861-40.jpg)
 
