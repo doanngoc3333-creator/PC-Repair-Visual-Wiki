@@ -3,6 +3,22 @@
 * RAM stand for random access memory, is a short-term memory for computer. Acive when computer running and erase temporary data when computer off
 
 ---
+## Types of RAM
+#### DDR1:
+* Intel: Pentium 4, Celeron (Socket 478/775).
+* AMD: Athlon XP, Sempron (Socket A, 754).
+#### DDR2:
+* Intel: Core 2 Duo, Core 2 Quad, Pentium Dual-Core (Socket 775).
+* AMD: Athlon 64 X2, Phenom (Socket AM2, AM2+).
+#### DDR3 / DDR3L:
+* Intel: Core i thế hệ 1, 2, 3 ,4 (Socket 1156, 1155, 1150).
+* AMD: Phenom II, FX Series (Socket AM3, AM3+, FM1, FM2, FM2+).
+#### DDR4:
+* Intel: Core i gen 6, 7, 8, 9, 10, 11 and some mainboards support DDR4 gen 12, 13, 14 (Socket 1151, 1200, 1700).
+* AMD: Ryzen gen 1, 2, 3, 4, 5 (Socket AM4).
+#### DDR5:
+* Intel: Core i gen 12, 13, 14 (mainboards support DDR5) and Core Ultra Series 2 (Socket LGA 1851 / LGA 1700).
+* AMD: Ryzen 7000, 8000, 9000 up (Socket AM5).
 
 ## Check your computer RAM
 
