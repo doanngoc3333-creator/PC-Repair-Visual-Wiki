@@ -6,8 +6,6 @@
 
 ## Types of SSD
 
-## Types of SSD
-
 ### 1. Based on Form Factor and Interface
 
 - 2.5-inch SATA SSD
@@ -27,13 +25,25 @@
 - QLC (Quad-Level Cell) — 4 bits per cell
 - PLC (Penta-Level Cell) — 5 bits per cell
 
-### 3. Based on Interface and Protocol
+#### SATA SSD
+- Uses flash memory instead of mechanical parts like an HDD and connects via the SATA III interface.
+- Protocol: AHCI
+- Max speed: ~550 MB/s
 
-- SATA SSD
-- PCIe SSD
-- NVMe SSD
-- SAS SSD
+#### PCIe SSD
+- Uses flash memory and connects via the PCIe interface.
+- Protocol: AHCI or NVMe
+- Max speed: Up to ~1,969 MB/s (PCIe 3.0 x2) or ~3,938 MB/s (PCIe 3.0 x4).
 
+#### NVMe SSD
+- Uses flash memory and connects via the PCIe interface.
+- Protocol: NVMe
+- Max speed: Up to ~3,938 MB/s (PCIe 3.0 x4) or ~7,877 MB/s (PCIe 4.0 x4).
+
+#### SAS SSD
+- Uses flash memory and connects via the SAS interface.
+- Protocol: SAS
+- Max speed: Up to ~1,200 MB/s (12 Gb/s SAS) or ~2,400 MB/s (24 Gb/s SAS).
 ### 4. Based on Usage
 
 - Consumer SSD
