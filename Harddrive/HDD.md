@@ -1,10 +1,10 @@
-# Documentation about PC and laptop hardware for IT support**
+# Documentation about PC and laptop hardware for IT support
 
 * An HDD (Hard Disk Drive) is a traditional computer storage device that uses rotating magnetic platters and read/write heads to store and retrieve data persistently. Unlike an SSD, an HDD contains mechanical moving parts.
 
 ---
 
-## Types of HDD**
+## Types of HDD
 
 ### 1. Based on Form Factor and Interface
 
